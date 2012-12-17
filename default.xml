@@ -371,4 +371,21 @@
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" />
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" />
+
+  <!-- CM removals -->
+  <remove-project name="CyanogenMod/android_external_srec" />
+  <remove-project name="CyanogenMod/android_frameworks_av" />
+  <remove-project name="CyanogenMod/android_frameworks_base" />
+  <remove-project name="CyanogenMod/android_frameworks_native" />
+  <remove-project name="CyanogenMod/android_hardware_libhardware_legacy" />
+  <remove-project name="CyanogenMod/android_hardware_qcom_display" />
+
+  <!-- androidarmv6 projects -->
+  <project name="androidarmv6/android_external_srec" path="external/srec" />
+  <project name="androidarmv6/android_frameworks_av" path="frameworks/av" />
+  <project name="androidarmv6/android_frameworks_base" path="frameworks/base" />
+  <project name="androidarmv6/android_frameworks_native" path="frameworks/native" />
+  <project name="androidarmv6/android_hardware_libhardware_legacy" path="hardware/libhardware_legacy" />
+  <project name="androidarmv6/android_hardware_qcom_display" path="hardware/qcom/display" />
+
 </manifest>
