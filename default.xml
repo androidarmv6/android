@@ -373,17 +373,5 @@
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" />
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" />
-  
-  <!-- Android ARMv6 Device Repos -->
-  <project name="androidarmv6/android_device_lge_p500" path="device/lge/p500" />
-  <project name="androidarmv6/android_device_lge_p505" path="device/lge/p505" />
-  <project name="androidarmv6/android_device_lge_p506" path="device/lge/p506" />
-  <project name="androidarmv6/android_device_lge_p509" path="device/lge/p509" />
-  <project name="androidarmv6/android_device_lge_p350" path="device/lge/p350" />
-  <project name="androidarmv6/android_device_samsung_cooper" path="device/samsung/cooper" />
-  <project name="androidarmv6/android_device_samsung_gio" path="device/samsung/gio" />
-  <project name="androidarmv6/android_device_zte_blade" path="device/zte/blade" />
-  <project name="androidarmv6/android_device_zte_blade2" path="device/zte/blade2" />
-  <project name="androidarmv6/android_device_huawei_u8150" path="device/huawei/u8150" />
 
 </manifest>
