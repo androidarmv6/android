@@ -121,7 +121,7 @@
   <project path="external/libgsm" name="CyanogenMod/android_external_libgsm" />
   <project path="external/liblzf" name="CyanogenMod/android_external_liblzf" />
   <project path="external/libmtp" name="CyanogenMod/android_external_libmtp" />
-  <project path="external/libncurses" name="CyanogenMod/android_external_libncurses" />
+  <project path="external/libncurses" name="androidarmv6/android_external_libncurses" />
   <project path="external/libnfc-nci" name="CyanogenMod/android_external_libnfc-nci" />
   <project path="external/libnfc-nxp" name="CyanogenMod/android_external_libnfc-nxp" />
   <project path="external/libnl-headers" name="CyanogenMod/android_external_libnl-headers" />
@@ -249,7 +249,7 @@
   <project path="hardware/qcom/display_legacy" name="androidarmv6/android_hardware_qcom_display_legacy" />
   <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" />
   <project path="hardware/qcom/keymaster" name="CyanogenMod/android_hardware_qcom_keymaster" />
-  <project path="hardware/qcom/media" name="CyanogenMod/android_hardware_qcom_media" />
+  <project path="hardware/qcom/media" name="androidarmv6/android_hardware_qcom_media" />
   <project path="hardware/qcom/msm8960" name="CyanogenMod/android_hardware_qcom_msm8960" />
   <project path="hardware/qcom/power" name="CyanogenMod/android_hardware_qcom_power" />
   <project path="hardware/qcom/sensors" name="CyanogenMod/android_hardware_qcom_sensors" />
@@ -373,5 +373,17 @@
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" />
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" />
+  
+  <!-- Android ARMv6 Device Repos -->
+  <project name="androidarmv6/android_device_lge_p500" path="device/lge/p500" />
+  <project name="androidarmv6/android_device_lge_p505" path="device/lge/p505" />
+  <project name="androidarmv6/android_device_lge_p506" path="device/lge/p506" />
+  <project name="androidarmv6/android_device_lge_p509" path="device/lge/p509" />
+  <project name="androidarmv6/android_device_lge_p350" path="device/lge/p350" />
+  <project name="androidarmv6/android_device_samsung_cooper" path="device/samsung/cooper" />
+  <project name="androidarmv6/android_device_samsung_gio" path="device/samsung/gio" />
+  <project name="androidarmv6/android_device_zte_blade" path="device/zte/blade" />
+  <project name="androidarmv6/android_device_zte_blade2" path="device/zte/blade2" />
+  <project name="androidarmv6/android_device_huawei_u8150" path="device/huawei/u8150" />
 
 </manifest>
