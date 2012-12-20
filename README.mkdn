@@ -15,6 +15,16 @@ Then to sync up:
 
     repo sync
 
+Build your device:
+
+    source build/envsetup.sh
+    brunch DEVICENAME (for ex: brunch cooper)
+
+Flash ZIP:
+
+    out/target/product/DEVICENAME/cm-VERSION-DEVICENAME.zip
+
+
 Please see the [CyanogenMod Wiki](http://wiki.cyanogenmod.org/) for building instructions.
 
 For more information on this Github Organization and how it is structured, 
