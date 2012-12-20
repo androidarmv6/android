@@ -16,7 +16,7 @@
            sync-c="true"
            sync-j="4" />
 
-  <project path="build" name="CyanogenMod/android_build">
+  <project path="build" name="androidarmv6/android_build">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
