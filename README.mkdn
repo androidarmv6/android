@@ -1,32 +1,10 @@
-CyanogenMod
+Android for ARMv6 Phones - CyanogenMod
 ===========
-
-Submitting Patches
-------------------
-Patches are always welcome!  Please submit your patches via CyanogenMod Gerrit!
-You can do this by using these commands:
-
-    (From root android directory)
-    . build/envsetup.sh
-    (Go to repo you are patching, make your changes and commit)
-    cmgerrit <for(new)/changes(patch set)> <branch/change-id> 
-
-    repo start jellybean .
-    (Make your changes and commit)
-    repo upload .
-Note: "." meaning current directory
-For more help on using this tool, use this command: repo help upload
-
-Make your changes and commit with a detailed message, starting with what you are working with (i.e. vision: Update Kernel)
-Commit your patches in a single commit. Squash multiple commit using this command: git rebase -i HEAD~<# of commits>
-
-To view the status of your and others' patches, visit [CyanogenMod Code Review](http://review.cyanogenmod.org/)
-
 
 Getting Started
 ---------------
 
-To get started with Android/CyanogenMod, you'll need to get
+To get started with Android for ARMv6/CyanogenMod, you'll need to get
 familiar with [Git and Repo](http://source.android.com/download/using-repo).
 
 To initialize your local repository using the CyanogenMod trees, use a command like this:
@@ -42,9 +20,10 @@ Please see the [CyanogenMod Wiki](http://wiki.cyanogenmod.org/) for building ins
 For more information on this Github Organization and how it is structured, 
 please [read the wiki article](http://wiki.cyanogenmod.org/index.php/Github_Organization)
 
-Buildbot
+Disclaimer
 --------
 
-All supported devices are built nightly and periodically as changes are committed to ensure the source trees remain buildable.
-
-You can view the current build statuses at [CyanogenMod Jenkins](http://jenkins.cyanogenmod.org/)
+All of these device are not supported by CyanogenMOd since they use the old Qualcomm
+Snapdragon MSM7x27 chip, and hence cut off by the CyanogenMod team. This team (androidarmv6)
+is in no way, shape or form affiliated by the CyanogenMod team and this project is not
+endorsed or supported by the CyanogenMod team.
