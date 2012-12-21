@@ -33,7 +33,7 @@ please [read the wiki article](http://wiki.cyanogenmod.org/index.php/Github_Orga
 Disclaimer
 --------
 
-All of these device are not supported by CyanogenMOd since they use the old Qualcomm
+All of these device are not supported by CyanogenMod since they use the old Qualcomm
 Snapdragon MSM7x27 chip, and hence cut off by the CyanogenMod team. This team (androidarmv6)
 is in no way, shape or form affiliated by the CyanogenMod team and this project is not
 endorsed or supported by the CyanogenMod team.
