@@ -30,6 +30,8 @@ Please see the [CyanogenMod Wiki](http://wiki.cyanogenmod.org/) for building ins
 For more information on this Github Organization and how it is structured, 
 please [read the wiki article](http://wiki.cyanogenmod.org/index.php/Github_Organization)
 
+Join us on #droidarmv6 for help and support or just for a chat!
+
 Disclaimer
 --------
 
