@@ -1,4 +1,4 @@
-Android for ARMv6 Phones - CyanogenMod
+Android for ARMv6 and Legacy Devices - CyanogenMod
 ===========
 
 Getting Started
