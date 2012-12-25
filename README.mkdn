@@ -1,4 +1,4 @@
-Android for ARMv6 and Legacy Devices - CyanogenMod 10.1
+Android for ARMv6 and other Legacy Devices - CyanogenMod 10.1
 ===========
 
 Getting Started
