@@ -6,7 +6,7 @@
 
   <remote  name="github"
            fetch=".."
-           review="review.cyanogenmod.org" />
+           review="review.cas-online.nl:8181" />
 
   <remote  name="private"
            fetch="ssh://git@github.com" />
