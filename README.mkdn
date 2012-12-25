@@ -7,6 +7,8 @@ Getting Started
 To get started with Android for ARMv6/CyanogenMod, you'll need to get
 familiar with [Git and Repo](http://source.android.com/download/using-repo).
 
+We have a gerrit instance at http://server.cas-online.nl:8181. Please don't try to push directly to github.
+
 To initialize your local repository using the CyanogenMod trees, use a command like this:
 
     repo init -u git://github.com/androidarmv6/android.git -b cm-10.1
