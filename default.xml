@@ -36,6 +36,8 @@
   <project path="device/generic/x86" name="CyanogenMod/android_device_generic_x86" />
   <project path="device/google/accessory/arduino" name="CyanogenMod/android_device_google_accessory_arduino" groups="device" />
   <project path="device/google/accessory/demokit" name="CyanogenMod/android_device_google_accessory_demokit" groups="device" />
+  <project path="device/mdpi-common" name="androidarmv6/android_device_mdpi-common" />
+  <project path="device/ldpi-common" name="androidarmv6/android_device_ldpi-common" />
   <project path="device/sample" name="CyanogenMod/android_device_sample" groups="device" />
   <project path="device/ti/panda" name="CyanogenMod/android_device_ti_panda" groups="device" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="jb-mr1-release" />
