@@ -8,6 +8,9 @@
            fetch=".."
            review="server.cas-online.nl:8181" />
 
+  <remote  name="private"
+           fetch="ssh://git@github.com" />
+
   <default revision="refs/heads/cm-10.1"
            remote="github"
            sync-c="true"
