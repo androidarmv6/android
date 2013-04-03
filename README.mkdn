@@ -7,10 +7,12 @@ Getting Started
 To get started with Android for ARMv6/CyanogenMod, you'll need to get
 familiar with [Git and Repo](http://source.android.com/source/developing.html).
 
-We have a gerrit instance at http://server.cas-online.nl:8181.
+We have a gerrit instance at http://review.androidarmv6.org.
 Please don't try to push directly to github.
 
-    git config --global review.server.cas-online.nl:8181.username "GERRITUSERNAME"
+GERRIT SETUP (Don't change anything, yes double review.review)
+git config --global review.review.androidarmv6.org.username GERRITUSERNAME
+
 
 Ask an owner for forking stuff for gerrit. We will be happy to oblige.
 

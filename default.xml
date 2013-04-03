@@ -7,7 +7,7 @@
 
   <remote  name="github"
            fetch=".."
-           review="server.cas-online.nl:8181" />
+           review="review.androidarmv6.org" />
 
   <remote  name="caf"
            fetch="git://codeaurora.org/"
