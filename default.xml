@@ -75,7 +75,7 @@
   <project path="external/cibu-fonts" name="CyanogenMod/android_external_cibu-fonts" />
   <project path="external/clang" name="CyanogenMod/android_external_clang" />
   <project path="external/compiler-rt" name="CyanogenMod/android_external_compiler-rt" />
-  <project path="external/dbus" name="CyanogenMod/android_external_dbus" />
+  <project path="external/dbus" name="androidarmv6/android_external_dbus" />
   <project path="external/dexmaker" name="CyanogenMod/android_external_dexmaker" />
   <project path="external/dhcpcd" name="CyanogenMod/android_external_dhcpcd" />
   <project path="external/dnsmasq" name="CyanogenMod/android_external_dnsmasq" />
