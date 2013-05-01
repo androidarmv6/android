@@ -308,7 +308,7 @@
   <project name="CyanogenMod/android_vendor_tmobile_products_themes" path="vendor/tmobile/products/themes" revision="671cd64ee2d932c5836942c9cde9bcc70d9d9f25" upstream="refs/heads/cm-10.1"/>
   <project name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" path="vendor/tmobile/providers/ThemeManager" revision="83314c62c291047190124e6f541ec14a587f11f5" upstream="refs/heads/cm-10.1"/>
   <project name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" path="vendor/tmobile/apps/ThemeChooser" revision="69533abe172194155deefefac6f7f09a789e1942" upstream="refs/heads/cm-10.1"/>
-  <project name="androidarmv6/android" path="android" revision="a56a15804b9c5d69c24558769e88ca594bddac23" upstream="refs/heads/cm-10.1"/>
+  <project name="androidarmv6/android" path="android" revision="8f6e458f5fa276ce628eb241ef0b932bdadff757" upstream="refs/heads/cm-10.1"/>
   <project name="androidarmv6/android_build" path="build" revision="f30652a5996f5bf66a0900ca39b7bb554e30a595" upstream="refs/heads/cm-10.1">
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
