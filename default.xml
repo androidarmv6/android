@@ -51,7 +51,6 @@
   <project path="device/google/accessory/demokit" name="CyanogenMod/android_device_google_accessory_demokit" groups="device" />
   <project path="device/mdpi-common" name="androidarmv6/android_device_mdpi-common" />
   <project path="device/ldpi-common" name="androidarmv6/android_device_ldpi-common" />
-  <project path="device/sample" name="CyanogenMod/android_device_sample" groups="pdk" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="refs/tags/android-4.3_r2.1" />
   <project path="external/aac" name="CyanogenMod/android_external_aac" groups="pdk" />
   <project path="external/android-clat" name="CyanogenMod/android_external_android-clat" />
