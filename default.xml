@@ -269,7 +269,6 @@
   <project path="frameworks/webview" name="CyanogenMod/android_frameworks_webview" />
   <project path="frameworks/wilhelm" name="CyanogenMod/android_frameworks_wilhelm" />
   <project path="hardware/akm" name="platform/hardware/akm" groups="pdk" remote="aosp" revision="refs/tags/android-4.3_r2.1" />
-  <project path="hardware/atheros/wifi/libs" name="androidarmv6/android_hardware_atheros_wifi_libs" />
   <project path="hardware/broadcom/libbt" name="CyanogenMod/android_hardware_broadcom_libbt" groups="pdk" />
   <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" groups="broadcom_wlan" />
   <project path="hardware/cm" name="CyanogenMod/android_hardware_cm" />
@@ -303,12 +302,11 @@
   <project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-4.3_r2.1" />
   <project path="packages/apps/Apollo" name="CyanogenMod/android_packages_apps_Apollo" />
   <project path="packages/apps/BasicSmsReceiver" name="CyanogenMod/android_packages_apps_BasicSmsReceiver" />
-  <project path="packages/apps/Bluetooth" name="androidarmv6/android_packages_apps_Bluetooth" />
-  <project path="packages/apps/Bluetooth_msm" name="androidarmv6/android_packages_apps_Bluetooth_msm" />
+  <project path="packages/apps/Bluetooth" name="CyanogenMod/android_packages_apps_Bluetooth" />
   <project path="packages/apps/Browser" name="CyanogenMod/android_packages_apps_Browser" />
   <project path="packages/apps/Calculator" name="CyanogenMod/android_packages_apps_Calculator" />
   <project path="packages/apps/Calendar" name="CyanogenMod/android_packages_apps_Calendar" />
-  <project path="packages/apps/Camera" name="androidarmv6/android_packages_apps_Camera" />
+  <project path="packages/apps/Camera" name="CyanogenMod/android_packages_apps_Camera" />
   <project path="packages/apps/CellBroadcastReceiver" name="CyanogenMod/android_packages_apps_CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="CyanogenMod/android_packages_apps_CertInstaller" />
   <project path="packages/apps/CMFileManager" name="CyanogenMod/android_packages_apps_CMFileManager" />
@@ -318,7 +316,6 @@
   <project path="packages/apps/DeskClock" name="CyanogenMod/android_packages_apps_DeskClock" />
   <project path="packages/apps/Dialer" name="CyanogenMod/android_packages_apps_Dialer" />
   <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" />
-  <project path="packages/apps/Effem" name="androidarmv6/android_packages_apps_Effem" />
   <project path="packages/apps/Email" name="CyanogenMod/android_packages_apps_Email" />
   <project path="packages/apps/Exchange" name="CyanogenMod/android_packages_apps_Exchange" />
   <project path="packages/apps/Gallery" name="CyanogenMod/android_packages_apps_Gallery" />
