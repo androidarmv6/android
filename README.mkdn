@@ -1,4 +1,4 @@
-Android for ARMv6 and other Legacy Devices - CyanogenMod 10.1
+Android for ARMv6 and other Legacy Devices - CyanogenMod 10.2
 ===========
 
 Getting Started
@@ -6,8 +6,6 @@ Getting Started
 
 To get started with Android for ARMv6/CyanogenMod, you'll need to get
 familiar with [Git and Repo](http://source.android.com/source/developing.html).
-
-Ask an owner for forking stuff for gerrit. We will be happy to oblige.
 
 
 To initialize your local repository using the CyanogenMod trees, use a command like this:
@@ -17,6 +15,7 @@ To initialize your local repository using the CyanogenMod trees, use a command l
 Then to sync up:
 
     repo sync
+    sh vendor/cm/get-prebuilts
 
 Build your device:
 
@@ -36,10 +35,15 @@ Gerrit Code Review
 
 We have a gerrit instance at http://review.androidarmv6.org.
 Please don't try to push directly to github.
+Ask an owner for forking stuff for gerrit.
+We will be happy to oblige.
 
 Gerrit Setup (yes double review.review, change GERRITUSERNAME with your username)
 
     git config --global review.review.androidarmv6.org.username GERRITUSERNAME
+
+Uploading Patches
+
     cd WORKING_DIR
     source build/envsetup.sh
     cd PROJECT_DIR
