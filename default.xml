@@ -52,7 +52,6 @@
   <project path="device/mdpi-common" name="androidarmv6/android_device_mdpi-common" />
   <project path="device/ldpi-common" name="androidarmv6/android_device_ldpi-common" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="refs/tags/android-4.3_r3" />
-  <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="refs/tags/android-4.3_r3" />
   <project path="external/aac" name="CyanogenMod/android_external_aac" groups="pdk" />
   <project path="external/android-clat" name="CyanogenMod/android_external_android-clat" />
   <project path="external/android-mock" name="CyanogenMod/android_external_android-mock" />
