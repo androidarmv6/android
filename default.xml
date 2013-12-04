@@ -241,7 +241,7 @@
   <project path="external/v8" name="CyanogenMod/android_external_v8" />
   <project path="external/valgrind" name="CyanogenMod/android_external_valgrind" groups="pdk" />
   <project path="external/vim" name="CyanogenMod/android_external_vim" />
-  <project path="external/webkit" name="CyanogenMod/android_external_webkit" />
+  <project path="external/webkit" name="androidarmv6/android_external_webkit" />
   <project path="external/webp" name="CyanogenMod/android_external_webp" />
   <project path="external/webrtc" name="CyanogenMod/android_external_webrtc" groups="pdk" />
   <project path="external/wpa_supplicant_8" name="androidarmv6/android_external_wpa_supplicant_8" groups="pdk" />
