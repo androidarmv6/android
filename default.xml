@@ -68,11 +68,6 @@
   <project path="external/bison" name="CyanogenMod/android_external_bison" groups="pdk" />
   <project path="external/blktrace" name="CyanogenMod/android_external_blktrace" />
   <project path="external/bluetooth/bluedroid" name="CyanogenMod/android_external_bluetooth_bluedroid" groups="pdk" />
-<!--
-  <project path="external/bluetooth/bluez" name="platform/external/bluetooth/bluez" remote="caf" revision="jb_2.5" groups="pdk" />
-  <project path="external/bluetooth/glib" name="platform/external/bluetooth/glib" remote="caf" revision="jb_2.5" groups="pdk" />
-  <project path="external/bluetooth/hcidump" name="platform/external/bluetooth/hcidump" remote="caf" revision="jb_2.5" groups="pdk" />
--->
   <project path="external/bouncycastle" name="CyanogenMod/android_external_bouncycastle" />
   <project path="external/bsdiff" name="CyanogenMod/android_external_bsdiff" groups="pdk" />
   <project path="external/busybox" name="CyanogenMod/android_external_busybox" />
@@ -108,7 +103,6 @@
   <project path="external/chromium_org/v8" name="platform/external/chromium_org/v8" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="external/clang" name="CyanogenMod/android_external_clang" groups="pdk" />
   <project path="external/compiler-rt" name="CyanogenMod/android_external_compiler-rt" groups="pdk" />
-<!--  <project path="external/dbus" name="androidarmv6/android_external_dbus" /> -->
   <project path="external/connectivity" name="CyanogenMod/android_external_connectivity" />
   <project path="external/crda" name="CyanogenMod/android_external_crda" />
   <project path="external/dexmaker" name="CyanogenMod/android_external_dexmaker" />
@@ -375,7 +369,6 @@
   <project path="packages/apps/Nfc" name="CyanogenMod/android_packages_apps_Nfc" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="packages/apps/PackageInstaller" name="CyanogenMod/android_packages_apps_PackageInstaller" />
-<!--  <project path="packages/apps/PermissionsManager" name="androidarmv6/android_packages_apps_PermissionsManager" /> -->
   <project path="packages/apps/PhoneCommon" name="CyanogenMod/android_packages_apps_PhoneCommon" />
   <project path="packages/apps/Provision" name="CyanogenMod/android_packages_apps_Provision" />
   <project path="packages/apps/QuickSearchBox" name="CyanogenMod/android_packages_apps_QuickSearchBox" />
