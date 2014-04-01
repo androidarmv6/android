@@ -313,7 +313,7 @@
   <project name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" path="vendor/tmobile/providers/ThemeManager" revision="1b8ef39abee2e2e217520e3078b05c937210ea93" upstream="refs/heads/cm-11.0"/>
   <project name="CyanogenMod/ion" path="external/koush/ion" revision="c3869fe22487d7bc09a1e706e49dcd45797313ab" upstream="refs/heads/cm-11.0"/>
   <project name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" path="vendor/tmobile/apps/ThemeChooser" revision="069ecf6bbcd121c118099977f2f38fb0c2950b24" upstream="refs/heads/cm-11.0"/>
-  <project name="androidarmv6/android" path="android" revision="a83d32130da4d592326693f646d8c8ab3357d8aa" upstream="refs/heads/cm-11.0"/>
+  <project name="androidarmv6/android" path="android" revision="0f3fb0d6329c0001d6d911d93b2a83decdd95794" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="androidarmv6/android_bionic" path="bionic" revision="7de71d3fcce4650f8b8374d9ed6a9524b4ae8c14" upstream="refs/heads/cm-11.0"/>
   <project name="androidarmv6/android_bootable_recovery" path="bootable/recovery" revision="ff68ef883af76d3291033b63560fa57a1fd7fea3" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="androidarmv6/android_build" path="build" revision="6e2f89795abafc120234d71605a8fa282af05502" upstream="refs/heads/cm-11.0">
