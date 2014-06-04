@@ -41,7 +41,7 @@
   <project name="CyanogenMod/android_external_bouncycastle" path="external/bouncycastle" revision="7e37934b87aae3eddb9817663a20d9f9bb554bf2" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="CyanogenMod/android_external_bsdiff" path="external/bsdiff" revision="23e322ab19fb7d74c2c37e40ce364d9f709bdcee" upstream="refs/heads/cm-11.0"/>
   <project name="CyanogenMod/android_external_bson" path="external/bson" revision="ad6fc5dbb5f4369e08f7543b1517c225281900c0" upstream="refs/heads/cm-11.0"/>
-  <project name="CyanogenMod/android_external_busybox" path="external/busybox" revision="3284a1dfa1c6a7007275a4888b700057f667f43f" upstream="refs/heads/cm-11.0"/>
+  <project name="CyanogenMod/android_external_busybox" path="external/busybox" revision="2b3b6440c6b30451489f77bd4edcaff85011ed3c" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="CyanogenMod/android_external_bzip2" path="external/bzip2" revision="33358c7abd1448a27690a2137bbbfdc32421bd45" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="CyanogenMod/android_external_checkpolicy" path="external/checkpolicy" revision="0d73ef7049feee794f14cf1af88d05dae8139914" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="CyanogenMod/android_external_chromium-trace" path="external/chromium-trace" revision="6c9ee31d9411e2e8d874a8e75b7eb95b7c913308" upstream="refs/heads/cm-11.0"/>
@@ -314,7 +314,7 @@
   <project groups="pdk" name="CyanogenMod/android_system_security" path="system/security" revision="b5992b09a6f55d16f148fd6b405b6e8a8b0dc06b" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="CyanogenMod/android_system_vold" path="system/vold" revision="2ef6bc2c04492de36b3c8775e2059e00ff2cb298" upstream="refs/heads/cm-11.0"/>
   <project name="CyanogenMod/ion" path="external/koush/ion" revision="12349d466d20f553e4a8b5a4d8560ace6379000a" upstream="refs/heads/cm-11.0"/>
-  <project name="androidarmv6/android" path="android" revision="b8c116bf99dcac9a7da480644ef8e5cb742851a4" upstream="refs/heads/cm-11.0"/>
+  <project name="androidarmv6/android" path="android" revision="03ba1e0a32d230ddf641fdb20443c82ac16838f4" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="androidarmv6/android_bionic" path="bionic" revision="3c71468dc3e2e608865bfe5913ecbb6fc7c11f51" upstream="refs/heads/cm-11.0"/>
   <project name="androidarmv6/android_bootable_recovery" path="bootable/recovery" revision="633de0532353b73723d50481117313916bc96d02" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="androidarmv6/android_build" path="build" revision="e50eb4e597474c7d0e98ade97cca29aefe3f4102" upstream="refs/heads/cm-11.0">
