@@ -314,7 +314,7 @@
   <project groups="pdk" name="CyanogenMod/android_system_security" path="system/security" revision="b5992b09a6f55d16f148fd6b405b6e8a8b0dc06b" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="CyanogenMod/android_system_vold" path="system/vold" revision="2ef6bc2c04492de36b3c8775e2059e00ff2cb298" upstream="refs/heads/cm-11.0"/>
   <project name="CyanogenMod/ion" path="external/koush/ion" revision="12349d466d20f553e4a8b5a4d8560ace6379000a" upstream="refs/heads/cm-11.0"/>
-  <project name="androidarmv6/android" path="android" revision="cd920a7f4552f768f48ed5dd0d36d9286c484352" upstream="refs/heads/cm-11.0"/>
+  <project name="androidarmv6/android" path="android" revision="fa46c430ad456c48a8c2abe59954acf8fe7075db" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="androidarmv6/android_bionic" path="bionic" revision="3c71468dc3e2e608865bfe5913ecbb6fc7c11f51" upstream="refs/heads/cm-11.0"/>
   <project name="androidarmv6/android_bootable_recovery" path="bootable/recovery" revision="289de932d9949b07fd09745a69faf737bbddccd8" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="androidarmv6/android_build" path="build" revision="e50eb4e597474c7d0e98ade97cca29aefe3f4102" upstream="refs/heads/cm-11.0">
@@ -332,7 +332,7 @@
   <project name="androidarmv6/android_external_webkit" path="external/webkit" revision="33ae78ef43528c11cdf0f2577d23fda763133736" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="androidarmv6/android_external_wpa_supplicant_8" path="external/wpa_supplicant_8" revision="529cfc0bae0688872436e5cdbb9d9dd528d2a481" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="androidarmv6/android_frameworks_av" path="frameworks/av" revision="81b17db65ea275c5df424dc25e99c85f05707008" upstream="refs/heads/cm-11.0"/>
-  <project name="androidarmv6/android_frameworks_base" path="frameworks/base" revision="ded3bae7cdefc05e3dcb583cec0b05ed64c527c1" upstream="refs/heads/cm-11.0"/>
+  <project name="androidarmv6/android_frameworks_base" path="frameworks/base" revision="8568e1df09ca30a03d6d27e041e2e7954c815f01" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="androidarmv6/android_frameworks_compile_libbcc" path="frameworks/compile/libbcc" revision="feede776222d8ce10b2dc94edccdcad8169cf978" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="androidarmv6/android_frameworks_compile_slang" path="frameworks/compile/slang" revision="9a03ba34ec0d0fbe8060d30911a82798554e765a" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="androidarmv6/android_frameworks_native" path="frameworks/native" revision="36cad14c64dbc3817b39703e703f8b2673864cae" upstream="refs/heads/cm-11.0"/>
@@ -346,7 +346,7 @@
   <project name="androidarmv6/android_packages_apps_Browser" path="packages/apps/Browser" revision="0795537830aadef475550f71062962b7bb80c0e6" upstream="refs/heads/cm-11.0"/>
   <project name="androidarmv6/android_packages_apps_HwaSettings" path="packages/apps/HwaSettings" revision="de37e822f688bd6d0955cd820cd1c985c40329b6" upstream="refs/heads/cm-11.0"/>
   <project name="androidarmv6/android_packages_apps_Settings" path="packages/apps/Settings" revision="dcaf518cc750c2e6f055b0397adf683b98afc26a" upstream="refs/heads/cm-11.0"/>
-  <project name="androidarmv6/android_packages_apps_Trebuchet" path="packages/apps/Trebuchet" revision="8064e47b0e2249f64bc2962a84c361d5777fe4bb" upstream="refs/heads/cm-11.0"/>
+  <project name="androidarmv6/android_packages_apps_Trebuchet" path="packages/apps/Trebuchet" revision="cc4869c01d9405a9a74a55218c3a7fc2503ea4c1" upstream="refs/heads/cm-11.0"/>
   <project name="androidarmv6/android_packages_inputmethods_LatinIME" path="packages/inputmethods/LatinIME" revision="f4eb739b0ef605e2598aa542d372f2b24f575d84" upstream="refs/heads/cm-11.0"/>
   <project name="androidarmv6/android_packages_wallpapers_Basic" path="packages/wallpapers/Basic" revision="1a083eface547da1b0a6f7bcf4eead27e7582472" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="androidarmv6/android_system_core" path="system/core" revision="5c1abd3dc33e2ca1a8acd123b7990acf66575ce3" upstream="refs/heads/cm-11.0"/>
