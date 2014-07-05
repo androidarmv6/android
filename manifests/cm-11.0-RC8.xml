@@ -41,7 +41,7 @@
   <project name="CyanogenMod/android_external_bouncycastle" path="external/bouncycastle" revision="8ca757547fa2d71874267446da178c85f8625b6a" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="CyanogenMod/android_external_bsdiff" path="external/bsdiff" revision="23e322ab19fb7d74c2c37e40ce364d9f709bdcee" upstream="refs/heads/cm-11.0"/>
   <project name="CyanogenMod/android_external_bson" path="external/bson" revision="ad6fc5dbb5f4369e08f7543b1517c225281900c0" upstream="refs/heads/cm-11.0"/>
-  <project name="CyanogenMod/android_external_busybox" path="external/busybox" revision="e64e94db902d3a0d5fb8e431b0aeb0be0d8f6151" upstream="refs/heads/cm-11.0"/>
+  <project name="CyanogenMod/android_external_busybox" path="external/busybox" revision="1baae7814259aec6bf73a972d64a0cd0b2232b51" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="CyanogenMod/android_external_bzip2" path="external/bzip2" revision="33358c7abd1448a27690a2137bbbfdc32421bd45" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="CyanogenMod/android_external_checkpolicy" path="external/checkpolicy" revision="0d73ef7049feee794f14cf1af88d05dae8139914" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="CyanogenMod/android_external_chromium-trace" path="external/chromium-trace" revision="6c9ee31d9411e2e8d874a8e75b7eb95b7c913308" upstream="refs/heads/cm-11.0"/>
@@ -298,7 +298,7 @@
   <project name="CyanogenMod/android_packages_screensavers_Basic" path="packages/screensavers/Basic" revision="c52988e1a6b5c0eb8a611b2039a7da19bfba518f" upstream="refs/heads/cm-11.0"/>
   <project name="CyanogenMod/android_packages_screensavers_PhotoTable" path="packages/screensavers/PhotoTable" revision="78bf713dc267dee57a2f10b9042102daf44464e3" upstream="refs/heads/cm-11.0"/>
   <project name="CyanogenMod/android_packages_screensavers_WebView" path="packages/screensavers/WebView" revision="6e0a80f6faed6191acc8ce1b6c79eada09e9e042" upstream="refs/heads/cm-11.0"/>
-  <project name="CyanogenMod/android_packages_services_Telephony" path="packages/services/Telephony" revision="07876c9b680785ac4aa913ce773a7eee0cabe492" upstream="refs/heads/cm-11.0"/>
+  <project name="CyanogenMod/android_packages_services_Telephony" path="packages/services/Telephony" revision="23a4644745d86ff471f0a41e7d1287591949db3a" upstream="refs/heads/cm-11.0"/>
   <project name="CyanogenMod/android_packages_wallpapers_Galaxy4" path="packages/wallpapers/Galaxy4" revision="e23dbc12b0ce25461be68594186cd6eb9dab2838" upstream="refs/heads/cm-11.0"/>
   <project name="CyanogenMod/android_packages_wallpapers_HoloSpiral" path="packages/wallpapers/HoloSpiral" revision="44224efdedc03454d0cff0642cdfd6bda69bb394" upstream="refs/heads/cm-11.0"/>
   <project name="CyanogenMod/android_packages_wallpapers_LivePicker" path="packages/wallpapers/LivePicker" revision="bd362b110b79e1f5ac4c5eb60b8a54963b576507" upstream="refs/heads/cm-11.0"/>
@@ -316,7 +316,7 @@
   <project groups="pdk" name="CyanogenMod/android_system_security" path="system/security" revision="b5992b09a6f55d16f148fd6b405b6e8a8b0dc06b" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="CyanogenMod/android_system_vold" path="system/vold" revision="84aa7ed0171f5f64ba58d2d785a39004a7ba2886" upstream="refs/heads/cm-11.0"/>
   <project name="CyanogenMod/ion" path="external/koush/ion" revision="12349d466d20f553e4a8b5a4d8560ace6379000a" upstream="refs/heads/cm-11.0"/>
-  <project name="androidarmv6/android" path="android" revision="7b66793d9169cd42546f1c5385af7ae412e4d0c7" upstream="refs/heads/cm-11.0"/>
+  <project name="androidarmv6/android" path="android" revision="8fb1ba84a01dabba3f3b9ac86d13b3c294db15a6" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="androidarmv6/android_bionic" path="bionic" revision="06b4f56cb1812748b600cbbacef32f3f22cea905" upstream="refs/heads/cm-11.0"/>
   <project name="androidarmv6/android_bootable_recovery" path="bootable/recovery" revision="bb6e1ba948817347d37bda3056b932f0bcfccf65" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="androidarmv6/android_build" path="build" revision="f1e6e6bed933f89cd2db6ff59689e41fa4cddd92" upstream="refs/heads/cm-11.0">
@@ -334,7 +334,7 @@
   <project name="androidarmv6/android_external_webkit" path="external/webkit" revision="84e792c445cfd9c0142fcbb06c35602f2253f7fe" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="androidarmv6/android_external_wpa_supplicant_8" path="external/wpa_supplicant_8" revision="19feb0952b7043cfd11e084712da32a30980b653" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="androidarmv6/android_frameworks_av" path="frameworks/av" revision="81b17db65ea275c5df424dc25e99c85f05707008" upstream="refs/heads/cm-11.0"/>
-  <project name="androidarmv6/android_frameworks_base" path="frameworks/base" revision="055ee6767ffbdd51464143f4b00b8cf718d409ac" upstream="refs/heads/cm-11.0"/>
+  <project name="androidarmv6/android_frameworks_base" path="frameworks/base" revision="c09ef01120bad0f3f34c60d9e18c3e9229ae249a" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="androidarmv6/android_frameworks_compile_libbcc" path="frameworks/compile/libbcc" revision="feede776222d8ce10b2dc94edccdcad8169cf978" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="androidarmv6/android_frameworks_compile_slang" path="frameworks/compile/slang" revision="828e779054ecda2ae806b8441436aa81a7e04bc1" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="androidarmv6/android_frameworks_native" path="frameworks/native" revision="ce16bceda189fe995550342b769f3167e184ad48" upstream="refs/heads/cm-11.0"/>
@@ -348,8 +348,8 @@
   <project name="androidarmv6/android_hardware_qcom_media-legacy" path="hardware/qcom/media-legacy" revision="dffea29a0b32e0784e8508cef060172220aa3da8" upstream="refs/heads/cm-11.0"/>
   <project name="androidarmv6/android_packages_apps_Browser" path="packages/apps/Browser" revision="38274985afced99d80c2cdfcdc4d632ac418c332" upstream="refs/heads/cm-11.0"/>
   <project name="androidarmv6/android_packages_apps_HwaSettings" path="packages/apps/HwaSettings" revision="de37e822f688bd6d0955cd820cd1c985c40329b6" upstream="refs/heads/cm-11.0"/>
-  <project name="androidarmv6/android_packages_apps_Settings" path="packages/apps/Settings" revision="f9cd40a2b76cbbb2b819f8e69db8a48c550736b3" upstream="refs/heads/cm-11.0"/>
-  <project name="androidarmv6/android_packages_apps_Trebuchet" path="packages/apps/Trebuchet" revision="38f35e551624275af4e96b293000f90b80df5322" upstream="refs/heads/cm-11.0"/>
+  <project name="androidarmv6/android_packages_apps_Settings" path="packages/apps/Settings" revision="0ca60f8454adee31c478343b8d53e8f4db5eacbd" upstream="refs/heads/cm-11.0"/>
+  <project name="androidarmv6/android_packages_apps_Trebuchet" path="packages/apps/Trebuchet" revision="5b80f11b45765cbbd66afa36a45a1891d216c627" upstream="refs/heads/cm-11.0"/>
   <project name="androidarmv6/android_packages_inputmethods_LatinIME" path="packages/inputmethods/LatinIME" revision="ef11174d06a7eccee618edbcd0992eb34ef816cd" upstream="refs/heads/cm-11.0"/>
   <project name="androidarmv6/android_packages_wallpapers_Basic" path="packages/wallpapers/Basic" revision="e7e48ddedc8888b804d84add479455655cc665dc" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="androidarmv6/android_system_core" path="system/core" revision="5e72504559bdda6d6ff3bed4dc4f2ce495752d06" upstream="refs/heads/cm-11.0"/>
