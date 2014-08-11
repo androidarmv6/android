@@ -12,7 +12,7 @@
   <project name="CyanogenMod/Widgets" path="external/koush/Widgets" revision="6aebba738f778bf265f0badbe649f590e46e27fd" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="CyanogenMod/android_abi_cpp" path="abi/cpp" revision="920825e414b1ff3031f42c745b405fec49e0e20c" upstream="refs/heads/cm-11.0"/>
   <project name="CyanogenMod/android_bootable_diskinstaller" path="bootable/diskinstaller" revision="60d078a5924284a452a8fe739247704f8b31c754" upstream="refs/heads/cm-11.0"/>
-  <project name="CyanogenMod/android_bootable_recovery-cm" path="bootable/recovery-cm" revision="05a435346c16f2006b5f31da16da9f4d1225f27b" upstream="refs/heads/cm-11.0"/>
+  <project name="CyanogenMod/android_bootable_recovery-cm" path="bootable/recovery-cm" revision="6fdcec15a23e359cf576acc27980d1112d68c44d" upstream="refs/heads/cm-11.0"/>
   <project name="CyanogenMod/android_development" path="development" revision="7ead3d16449f2388c3253f55b6adc0a0ba89aa6f" upstream="refs/heads/cm-11.0"/>
   <project name="CyanogenMod/android_device_common" path="device/common" revision="ca7e3194b8d3da282321683e87981753b0afdc5a" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="CyanogenMod/android_device_generic_armv7-a-neon" path="device/generic/armv7-a-neon" revision="f0c5f8278130a51f5b8d408e3b5c08fb91d8a23f" upstream="refs/heads/cm-11.0"/>
@@ -325,7 +325,7 @@
   <project groups="pdk" name="CyanogenMod/android_system_security" path="system/security" revision="b5992b09a6f55d16f148fd6b405b6e8a8b0dc06b" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="CyanogenMod/android_system_vold" path="system/vold" revision="da4c5ecfd0cfce4e784a32784731282221a6af34" upstream="refs/heads/cm-11.0"/>
   <project name="CyanogenMod/ion" path="external/koush/ion" revision="a36ff89d2961c4e7ce657248106f52817860f1d8" upstream="refs/heads/cm-11.0"/>
-  <project name="androidarmv6/android" path="android" revision="a9d9310543c9c2c6d52ab05ae1ea5c560f3c1de9" upstream="refs/heads/cm-11.0"/>
+  <project name="androidarmv6/android" path="android" revision="3d16f0c30173a83e00df9749e169973c4d94b524" upstream="refs/heads/cm-11.0"/>
   <project name="androidarmv6/android_art" path="art" revision="6ae6d126ba3b50d16b6ba61f39c3982a34a49eec" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="androidarmv6/android_bionic" path="bionic" revision="4b8f67b1a28e5c04903dfea60dc553372ff22879" upstream="refs/heads/cm-11.0"/>
   <project name="androidarmv6/android_bootable_recovery" path="bootable/recovery" revision="ddfea006959c522540655ce7ba886290f07616f8" upstream="refs/heads/cm-11.0"/>
@@ -344,7 +344,7 @@
   <project name="androidarmv6/android_external_webkit" path="external/webkit" revision="84e792c445cfd9c0142fcbb06c35602f2253f7fe" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="androidarmv6/android_external_wpa_supplicant_8" path="external/wpa_supplicant_8" revision="19feb0952b7043cfd11e084712da32a30980b653" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="androidarmv6/android_frameworks_av" path="frameworks/av" revision="67c938d53271edb5d6c44de4c9dd47d1ff0b1b4a" upstream="refs/heads/cm-11.0"/>
-  <project name="androidarmv6/android_frameworks_base" path="frameworks/base" revision="c0c7d89e4f82ef7f979503d9e2aac342db08055e" upstream="refs/heads/cm-11.0"/>
+  <project name="androidarmv6/android_frameworks_base" path="frameworks/base" revision="bcf4ff2ad04aa47d996b8b02b05ab938de3da09e" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="androidarmv6/android_frameworks_compile_libbcc" path="frameworks/compile/libbcc" revision="feede776222d8ce10b2dc94edccdcad8169cf978" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="androidarmv6/android_frameworks_compile_slang" path="frameworks/compile/slang" revision="828e779054ecda2ae806b8441436aa81a7e04bc1" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="androidarmv6/android_frameworks_native" path="frameworks/native" revision="57561ab8a1fb0a3db4751cd2f4d3ba9fbfa587fd" upstream="refs/heads/cm-11.0"/>
@@ -362,7 +362,7 @@
   <project name="androidarmv6/android_packages_apps_Trebuchet" path="packages/apps/Trebuchet" revision="699ff3e43e7dcd5be888e88c3acf771a0f1b288a" upstream="refs/heads/cm-11.0"/>
   <project name="androidarmv6/android_packages_inputmethods_LatinIME" path="packages/inputmethods/LatinIME" revision="87f99ecfc4830bdb7661503cc83251f58b4e2c3f" upstream="refs/heads/cm-11.0"/>
   <project name="androidarmv6/android_packages_wallpapers_Basic" path="packages/wallpapers/Basic" revision="252541865360763822407336a4b500a8af817ffd" upstream="refs/heads/cm-11.0"/>
-  <project groups="pdk" name="androidarmv6/android_system_core" path="system/core" revision="93a5553254f6435fd46964aeb153acd756cc2e02" upstream="refs/heads/cm-11.0"/>
+  <project groups="pdk" name="androidarmv6/android_system_core" path="system/core" revision="013d7ea8eb9aaab3319b7b4ecde0f5f5e4a31e29" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="androidarmv6/android_system_netd" path="system/netd" revision="443238662fc1e654e67e480c3359dca6231e3006" upstream="refs/heads/cm-11.0"/>
   <project name="androidarmv6/android_vendor_cm" path="vendor/cm" revision="38bd98091ad745409ac2050b93177222c95e91b7" upstream="refs/heads/cm-11.0"/>
   <project name="androidarmv6/android_vendor_google" path="vendor/google" revision="fab58967f0ec41f8e2c64d97aa9ab0a590c07921" upstream="refs/heads/cm-11.0"/>
