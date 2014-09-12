@@ -309,7 +309,7 @@
   <project name="CyanogenMod/android_packages_screensavers_Basic" path="packages/screensavers/Basic" revision="4dba053db3019b35806f8cf18b93f0bc620d4be9" upstream="refs/heads/cm-11.0"/>
   <project name="CyanogenMod/android_packages_screensavers_PhotoTable" path="packages/screensavers/PhotoTable" revision="f56a6fd7e6f42b99d39c57df334993f7e84de393" upstream="refs/heads/cm-11.0"/>
   <project name="CyanogenMod/android_packages_screensavers_WebView" path="packages/screensavers/WebView" revision="6e0a80f6faed6191acc8ce1b6c79eada09e9e042" upstream="refs/heads/cm-11.0"/>
-  <project name="CyanogenMod/android_packages_services_Telephony" path="packages/services/Telephony" revision="ccef91b193b56d5391736ca474a501cea7a59d35" upstream="refs/heads/cm-11.0"/>
+  <project name="CyanogenMod/android_packages_services_Telephony" path="packages/services/Telephony" revision="69a67ff24a7ed7af5ba1ed14074ff95203006cd9" upstream="refs/heads/cm-11.0"/>
   <project name="CyanogenMod/android_packages_wallpapers_Galaxy4" path="packages/wallpapers/Galaxy4" revision="25e357395557eb91985fa25afc0da6b8cfa7ad09" upstream="refs/heads/cm-11.0"/>
   <project name="CyanogenMod/android_packages_wallpapers_HoloSpiral" path="packages/wallpapers/HoloSpiral" revision="f2a3d24b5f0a46120298e13e0eaaaa40e70fa571" upstream="refs/heads/cm-11.0"/>
   <project name="CyanogenMod/android_packages_wallpapers_LivePicker" path="packages/wallpapers/LivePicker" revision="bf91568cd6f0342257825285fe2c447d9dd0273d" upstream="refs/heads/cm-11.0"/>
@@ -327,7 +327,7 @@
   <project groups="pdk" name="CyanogenMod/android_system_security" path="system/security" revision="b5992b09a6f55d16f148fd6b405b6e8a8b0dc06b" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="CyanogenMod/android_system_vold" path="system/vold" revision="57381264702036ee2ec9e6bf8723e4cbaf4edff3" upstream="refs/heads/cm-11.0"/>
   <project name="CyanogenMod/ion" path="external/koush/ion" revision="247bf2bc001f247dd046972d7b96e3586930d691" upstream="refs/heads/cm-11.0"/>
-  <project name="androidarmv6/android" path="android" revision="cff50785532f9e3d61d0d3da33aa705346592ec3" upstream="refs/heads/cm-11.0"/>
+  <project name="androidarmv6/android" path="android" revision="52cab1a5460660b6cbc28c77efafdf9ee179b4e9" upstream="refs/heads/cm-11.0"/>
   <project name="androidarmv6/android_art" path="art" revision="6ae6d126ba3b50d16b6ba61f39c3982a34a49eec" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="androidarmv6/android_bionic" path="bionic" revision="43af1b7110b4c3da2d3af535bc3f2ce415ff335d" upstream="refs/heads/cm-11.0"/>
   <project name="androidarmv6/android_bootable_recovery" path="bootable/recovery" revision="0c80c5d39c94c9f9c9d0c2ccd834fb20b2c4ad46" upstream="refs/heads/cm-11.0"/>
@@ -346,7 +346,7 @@
   <project name="androidarmv6/android_external_webkit" path="external/webkit" revision="84e792c445cfd9c0142fcbb06c35602f2253f7fe" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="androidarmv6/android_external_wpa_supplicant_8" path="external/wpa_supplicant_8" revision="eea488b23eacdfb220024e6f547a2ea951d467f8" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="androidarmv6/android_frameworks_av" path="frameworks/av" revision="67c938d53271edb5d6c44de4c9dd47d1ff0b1b4a" upstream="refs/heads/cm-11.0"/>
-  <project name="androidarmv6/android_frameworks_base" path="frameworks/base" revision="60732bdb27662be3e633ee50ca2e89b37cb61294" upstream="refs/heads/cm-11.0"/>
+  <project name="androidarmv6/android_frameworks_base" path="frameworks/base" revision="0c0467f1473b320e14c31a9aa3c1402404e7c7ed" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="androidarmv6/android_frameworks_compile_libbcc" path="frameworks/compile/libbcc" revision="feede776222d8ce10b2dc94edccdcad8169cf978" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="androidarmv6/android_frameworks_compile_slang" path="frameworks/compile/slang" revision="828e779054ecda2ae806b8441436aa81a7e04bc1" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="androidarmv6/android_frameworks_native" path="frameworks/native" revision="7699686a474faf9e52a4854d2f487f411c47a1ea" upstream="refs/heads/cm-11.0"/>
