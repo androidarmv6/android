@@ -309,7 +309,7 @@
   <project name="CyanogenMod/android_packages_screensavers_Basic" path="packages/screensavers/Basic" revision="7138a1e99711d0fcf7a54d30bfb322a008aac5f5" upstream="refs/heads/cm-11.0"/>
   <project name="CyanogenMod/android_packages_screensavers_PhotoTable" path="packages/screensavers/PhotoTable" revision="627e3897b78120c58c8c6bbc599b17f768a6239c" upstream="refs/heads/cm-11.0"/>
   <project name="CyanogenMod/android_packages_screensavers_WebView" path="packages/screensavers/WebView" revision="6e0a80f6faed6191acc8ce1b6c79eada09e9e042" upstream="refs/heads/cm-11.0"/>
-  <project name="CyanogenMod/android_packages_services_Telephony" path="packages/services/Telephony" revision="d52fec7dca1a2aa7db8086b103fe1e890ce0ca94" upstream="refs/heads/cm-11.0"/>
+  <project name="CyanogenMod/android_packages_services_Telephony" path="packages/services/Telephony" revision="91facac3c015c953310d00ca0b0fcb49efe9e500" upstream="refs/heads/cm-11.0"/>
   <project name="CyanogenMod/android_packages_wallpapers_Galaxy4" path="packages/wallpapers/Galaxy4" revision="dfa2e8133a33967b79517174bb2009261b50d669" upstream="refs/heads/cm-11.0"/>
   <project name="CyanogenMod/android_packages_wallpapers_HoloSpiral" path="packages/wallpapers/HoloSpiral" revision="bc3eb38f4142261d349f143b36503a2ebaa7b31e" upstream="refs/heads/cm-11.0"/>
   <project name="CyanogenMod/android_packages_wallpapers_LivePicker" path="packages/wallpapers/LivePicker" revision="71b10593433051d4570c5a5373eaf00027c72bd8" upstream="refs/heads/cm-11.0"/>
@@ -327,7 +327,7 @@
   <project groups="pdk" name="CyanogenMod/android_system_security" path="system/security" revision="b5992b09a6f55d16f148fd6b405b6e8a8b0dc06b" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="CyanogenMod/android_system_vold" path="system/vold" revision="c1d985e1346fd6b1d4548f15a492298d758fb3e9" upstream="refs/heads/cm-11.0"/>
   <project name="CyanogenMod/ion" path="external/koush/ion" revision="8001d15b2f80fff5743be04659e0176fef78212c" upstream="refs/heads/cm-11.0"/>
-  <project name="androidarmv6/android" path="android" revision="cbef82b02054a351309b078257693e68328350eb" upstream="refs/heads/cm-11.0"/>
+  <project name="androidarmv6/android" path="android" revision="d20337575d0b4fb61147efc8c2a804bf6b2d7a7a" upstream="refs/heads/cm-11.0"/>
   <project name="androidarmv6/android_art" path="art" revision="6ae6d126ba3b50d16b6ba61f39c3982a34a49eec" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="androidarmv6/android_bionic" path="bionic" revision="a22eaf5ddc389a6366abe51f460ad09e9897c5a0" upstream="refs/heads/cm-11.0"/>
   <project name="androidarmv6/android_bootable_recovery" path="bootable/recovery" revision="aa67a84b92ec18ef254420cc635566ab53d543f3" upstream="refs/heads/cm-11.0"/>
@@ -360,8 +360,8 @@
   <project name="androidarmv6/android_hardware_qcom_media-legacy" path="hardware/qcom/media-legacy" revision="dffea29a0b32e0784e8508cef060172220aa3da8" upstream="refs/heads/cm-11.0"/>
   <project name="androidarmv6/android_packages_apps_Browser" path="packages/apps/Browser" revision="4383f9ca49ed4c0477adc13f05cfe8eaa8dbb59a" upstream="refs/heads/cm-11.0"/>
   <project name="androidarmv6/android_packages_apps_HwaSettings" path="packages/apps/HwaSettings" revision="de37e822f688bd6d0955cd820cd1c985c40329b6" upstream="refs/heads/cm-11.0"/>
-  <project name="androidarmv6/android_packages_apps_Settings" path="packages/apps/Settings" revision="98240b9d696a0f82e0dbefc67ed4dc710e8baf15" upstream="refs/heads/cm-11.0"/>
-  <project name="androidarmv6/android_packages_apps_Trebuchet" path="packages/apps/Trebuchet" revision="f3beaa013933ffab4847df8b614e00976a6d6051" upstream="refs/heads/cm-11.0"/>
+  <project name="androidarmv6/android_packages_apps_Settings" path="packages/apps/Settings" revision="f0f4b6183bda7292b94c0f1e7b32737f94c480c2" upstream="refs/heads/cm-11.0"/>
+  <project name="androidarmv6/android_packages_apps_Trebuchet" path="packages/apps/Trebuchet" revision="4e6a10e3023bdc0afe78f1f9a55415dc0b11d2b9" upstream="refs/heads/cm-11.0"/>
   <project name="androidarmv6/android_packages_inputmethods_LatinIME" path="packages/inputmethods/LatinIME" revision="950677007961fe0119e24a91797b7d55822c2b24" upstream="refs/heads/cm-11.0"/>
   <project name="androidarmv6/android_packages_wallpapers_Basic" path="packages/wallpapers/Basic" revision="564ad608b2fc96efa4da0fbeaefa272143b46a06" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="androidarmv6/android_system_core" path="system/core" revision="f835d57ed6237780fd80933fe4e411b909c0eab0" upstream="refs/heads/cm-11.0"/>
