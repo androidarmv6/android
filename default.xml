@@ -319,7 +319,7 @@
   <project path="external/valgrind" name="platform/external/valgrind" groups="pdk" remote="aosp" revision="refs/tags/android-5.0.0_r2" />
   <project path="external/vixl" name="platform/external/vixl" groups="pdk" remote="aosp" revision="refs/tags/android-5.0.0_r2" />
 <!--  <project path="external/vim" name="CyanogenMod/android_external_vim" /> -->
-  <project path="external/webkit" name="androidarmv6/android_external_webkit" />
+<!--  <project path="external/webkit" name="androidarmv6/android_external_webkit" /> -->
   <project path="external/webp" name="platform/external/webp" groups="pdk-cw-fs,qcom_msm8x26" remote="aosp" revision="refs/tags/android-5.0.0_r2" />
   <project path="external/webrtc" name="platform/external/webrtc" groups="pdk" remote="aosp" revision="refs/tags/android-5.0.0_r2" />
   <!--project path="external/whispersystems/TextSecure" name="CyanogenMod/android_external_whispersystems_TextSecure" />
