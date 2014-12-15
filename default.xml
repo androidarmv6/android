@@ -320,7 +320,7 @@
   <project path="external/tinyxml2" name="platform/external/tinyxml2" groups="pdk" remote="aosp" revision="refs/tags/android-5.0.1_r1" />
   <project path="external/tremolo" name="platform/external/tremolo" groups="pdk" remote="aosp" revision="refs/tags/android-5.0.1_r1" />
   <project path="external/unrar" name="CyanogenMod/android_external_unrar" />
-  <project path="external/valgrind" name="platform/external/valgrind" groups="pdk" remote="aosp" revision="refs/tags/android-5.0.1_r1" />
+  <project path="external/valgrind" name="androidarmv6/android_external_valgrind" groups="pdk" />
   <project path="external/vixl" name="platform/external/vixl" groups="pdk" remote="aosp" revision="refs/tags/android-5.0.1_r1" />
 <!--  <project path="external/vim" name="CyanogenMod/android_external_vim" /> -->
 <!--  <project path="external/webkit" name="androidarmv6/android_external_webkit" /> -->
