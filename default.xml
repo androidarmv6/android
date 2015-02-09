@@ -323,6 +323,7 @@
   <project path="external/tremolo" name="platform/external/tremolo" groups="pdk" remote="aosp" />
   <project path="external/unrar" name="CyanogenMod/android_external_unrar" />
   <project path="external/valgrind" name="androidarmv6/android_external_valgrind" groups="pdk" />
+  <project path="external/vixl" name="platform/external/vixl" groups="pdk" remote="aosp" />
 <!--  <project path="external/vim" name="CyanogenMod/android_external_vim" groups="pdk" /> -->
 <!--  <project path="external/webkit" name="androidarmv6/android_external_webkit" /> -->
   <project path="external/webp" name="platform/external/webp" groups="pdk-cw-fs,qcom_msm8x26" remote="aosp" />
