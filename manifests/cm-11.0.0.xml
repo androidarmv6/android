@@ -258,10 +258,10 @@
   <project name="CyanogenMod/android_packages_apps_Bluetooth" path="packages/apps/Bluetooth" revision="133e280b2c39b237dba948080c0ef3cfe09b6caa" upstream="refs/heads/cm-11.0"/>
   <project name="CyanogenMod/android_packages_apps_BluetoothExt" path="packages/apps/BluetoothExt" revision="8432218e34f06fef9abb21f88fb076a0b4964b3a" upstream="refs/heads/cm-11.0"/>
   <project name="CyanogenMod/android_packages_apps_CMAccount" path="packages/apps/CMAccount" revision="f8b75e0e497fab688d440c92e89625899c8238c9" upstream="refs/heads/cm-11.0"/>
-  <project name="CyanogenMod/android_packages_apps_CMBugreport" path="packages/apps/CMBugReport" revision="e4652663c263bb2104990fb06734284a9d332607" upstream="refs/heads/cm-11.0"/>
+  <project name="CyanogenMod/android_packages_apps_CMBugreport" path="packages/apps/CMBugReport" revision="4222377735d221dbb44ba0752884b9498e60c0d2" upstream="refs/heads/cm-11.0"/>
   <project name="CyanogenMod/android_packages_apps_CMFileManager" path="packages/apps/CMFileManager" revision="63904ecb704ad722761296367bfe4694181f200b" upstream="refs/heads/cm-11.0"/>
   <project name="CyanogenMod/android_packages_apps_CMHome" path="packages/apps/CMHome" revision="d4707763a0d3ca9555db75023642f66190a854c0" upstream="refs/heads/cm-11.0"/>
-  <project name="CyanogenMod/android_packages_apps_CMUpdater" path="packages/apps/CMUpdater" revision="5e74499474cc041c6a553a25856a23e5789a0d2a" upstream="refs/heads/cm-11.0"/>
+  <project name="CyanogenMod/android_packages_apps_CMUpdater" path="packages/apps/CMUpdater" revision="507ec69fff9d39ca362eaa4a4354ce8ef96e35f9" upstream="refs/heads/cm-11.0"/>
   <project name="CyanogenMod/android_packages_apps_CMWallpapers" path="packages/apps/CMWallpapers" revision="2e2d92fb9ef97f5b1a861eb0c744aff7367dbd15" upstream="refs/heads/cm-11.0"/>
   <project name="CyanogenMod/android_packages_apps_Calculator" path="packages/apps/Calculator" revision="5c22c96d9babfc2a63a0f46503dbe8b24bfa77a4" upstream="refs/heads/cm-11.0"/>
   <project name="CyanogenMod/android_packages_apps_Calendar" path="packages/apps/Calendar" revision="3d48447ff4fb78f1da81ca07547e5bf20b99201c" upstream="refs/heads/cm-11.0"/>
@@ -272,7 +272,7 @@
   <project name="CyanogenMod/android_packages_apps_ContactsCommon" path="packages/apps/ContactsCommon" revision="a1619bdf516cacf4590a9dd34d8abf6f4a362aa3" upstream="refs/heads/cm-11.0"/>
   <project name="CyanogenMod/android_packages_apps_DSPManager" path="packages/apps/DSPManager" revision="e00edb3d2c7a445dc0a31affb4575fd272e90494" upstream="refs/heads/cm-11.0"/>
   <project name="CyanogenMod/android_packages_apps_DeskClock" path="packages/apps/DeskClock" revision="9fca21b6beb85246c53127c21aa9e5a7278ce262" upstream="refs/heads/cm-11.0"/>
-  <project name="CyanogenMod/android_packages_apps_Dialer" path="packages/apps/Dialer" revision="1efcafdc30686e013fc3eaf68ab3f1dc8fe71723" upstream="refs/heads/cm-11.0"/>
+  <project name="CyanogenMod/android_packages_apps_Dialer" path="packages/apps/Dialer" revision="79736d66188d0408f50be63dbf3c6d796d694a63" upstream="refs/heads/cm-11.0"/>
   <project name="CyanogenMod/android_packages_apps_Email" path="packages/apps/Email" revision="3a742dd4341ea71659f02d329f5a1c214b14aaef" upstream="refs/heads/cm-11.0"/>
   <project name="CyanogenMod/android_packages_apps_Exchange" path="packages/apps/Exchange" revision="b953a2915b3bab3187dd8821d3501fc2837954ae" upstream="refs/heads/cm-11.0"/>
   <project name="CyanogenMod/android_packages_apps_Gallery2" path="packages/apps/Gallery2" revision="55b5e6e81e15981e1692031b83b14a409d671322" upstream="refs/heads/cm-11.0"/>
@@ -291,7 +291,7 @@
   <project name="CyanogenMod/android_packages_apps_Stk" path="packages/apps/Stk" revision="131249730b888d039d36b58ee5d66ed8d2a70cd5" upstream="refs/heads/cm-11.0"/>
   <project name="CyanogenMod/android_packages_apps_Tag" path="packages/apps/Tag" revision="09fda7e2713e69d584603744f42f463ba4b1a01c" upstream="refs/heads/cm-11.0"/>
   <project name="CyanogenMod/android_packages_apps_ThemeChooser" path="packages/apps/ThemeChooser" revision="dcfaf6a364924f3ec84188cacb7c99045c96a9d0" upstream="refs/heads/cm-11.0"/>
-  <project name="CyanogenMod/android_packages_apps_Torch" path="packages/apps/Torch" revision="c313d48b76e88dbf897daff9b13e13e7c4a4a144" upstream="refs/heads/cm-11.0"/>
+  <project name="CyanogenMod/android_packages_apps_Torch" path="packages/apps/Torch" revision="5ce906e91f8d32e537d7b61858220527e883c653" upstream="refs/heads/cm-11.0"/>
   <project name="CyanogenMod/android_packages_apps_UnifiedEmail" path="packages/apps/UnifiedEmail" revision="cf2d20c96235ec142689320a9d2fbff684aed7bc" upstream="refs/heads/cm-11.0"/>
   <project name="CyanogenMod/android_packages_apps_VideoEditor" path="packages/apps/VideoEditor" revision="e37d9d9f9beddee6e0b5a18569b2219448c504bf" upstream="refs/heads/cm-11.0"/>
   <project name="CyanogenMod/android_packages_apps_VoiceDialer" path="packages/apps/VoiceDialer" revision="29894af1e9bf8732c47cfdc076cb93d271f9f7d8" upstream="refs/heads/cm-11.0"/>
@@ -329,11 +329,11 @@
   <project groups="pdk" name="CyanogenMod/android_system_security" path="system/security" revision="b5992b09a6f55d16f148fd6b405b6e8a8b0dc06b" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="CyanogenMod/android_system_vold" path="system/vold" revision="c1d985e1346fd6b1d4548f15a492298d758fb3e9" upstream="refs/heads/cm-11.0"/>
   <project name="CyanogenMod/ion" path="external/koush/ion" revision="18229d4e9d9560e14158f2c55c17a490f87099e2" upstream="refs/heads/cm-11.0"/>
-  <project name="androidarmv6/android" path="android" revision="899a9c67da960657a176ffb3c4af350ca6ddec94" upstream="refs/heads/cm-11.0"/>
+  <project name="androidarmv6/android" path="android" revision="9d33d09fc8df330b4505a12dc5a896e81e10f629" upstream="refs/heads/cm-11.0"/>
   <project name="androidarmv6/android_art" path="art" revision="6ae6d126ba3b50d16b6ba61f39c3982a34a49eec" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="androidarmv6/android_bionic" path="bionic" revision="a22eaf5ddc389a6366abe51f460ad09e9897c5a0" upstream="refs/heads/cm-11.0"/>
   <project name="androidarmv6/android_bootable_recovery" path="bootable/recovery" revision="2c963f948199a5cd5ba6b4f2efe8bef59e9f1a28" upstream="refs/heads/cm-11.0"/>
-  <project groups="pdk" name="androidarmv6/android_build" path="build" revision="ce3ba726ddc482b090285151c19a7635dc9bf248" upstream="refs/heads/cm-11.0">
+  <project groups="pdk" name="androidarmv6/android_build" path="build" revision="1978a4698abaa5404ff3b85d994f1065f2d24ca5" upstream="refs/heads/cm-11.0">
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
   <project name="androidarmv6/android_dalvik" path="dalvik" revision="4b7949da28a74c522f5c7d723ce8c8b1b432d81b" upstream="refs/heads/cm-11.0"/>
@@ -348,7 +348,7 @@
   <project name="androidarmv6/android_external_webkit" path="external/webkit" revision="84e792c445cfd9c0142fcbb06c35602f2253f7fe" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="androidarmv6/android_external_wpa_supplicant_8" path="external/wpa_supplicant_8" revision="ddd94c4a61fa00347a2a4c6c2eb81b0b64093026" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="androidarmv6/android_frameworks_av" path="frameworks/av" revision="fdc192c8ed2a4d09f6f27d113d514b1e1eb3a818" upstream="refs/heads/cm-11.0"/>
-  <project name="androidarmv6/android_frameworks_base" path="frameworks/base" revision="c10acac5ed5373984b271063aaa78951cc16ecac" upstream="refs/heads/cm-11.0"/>
+  <project name="androidarmv6/android_frameworks_base" path="frameworks/base" revision="05ce8108151432f6bd8aeeb5906b0edaeac97cb0" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="androidarmv6/android_frameworks_compile_libbcc" path="frameworks/compile/libbcc" revision="feede776222d8ce10b2dc94edccdcad8169cf978" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="androidarmv6/android_frameworks_compile_slang" path="frameworks/compile/slang" revision="828e779054ecda2ae806b8441436aa81a7e04bc1" upstream="refs/heads/cm-11.0"/>
   <project groups="pdk" name="androidarmv6/android_frameworks_native" path="frameworks/native" revision="e8cdea20ff116136028c12d8a58a224eba1a7f39" upstream="refs/heads/cm-11.0"/>
@@ -362,7 +362,7 @@
   <project name="androidarmv6/android_hardware_qcom_media-legacy" path="hardware/qcom/media-legacy" revision="dffea29a0b32e0784e8508cef060172220aa3da8" upstream="refs/heads/cm-11.0"/>
   <project name="androidarmv6/android_packages_apps_Browser" path="packages/apps/Browser" revision="345079141fac076e0e52f334a5bb981a2a4dd023" upstream="refs/heads/cm-11.0"/>
   <project name="androidarmv6/android_packages_apps_HwaSettings" path="packages/apps/HwaSettings" revision="de37e822f688bd6d0955cd820cd1c985c40329b6" upstream="refs/heads/cm-11.0"/>
-  <project name="androidarmv6/android_packages_apps_Settings" path="packages/apps/Settings" revision="c89ae643fca1c86e480a1f5df2ecd0ccfbec1b34" upstream="refs/heads/cm-11.0"/>
+  <project name="androidarmv6/android_packages_apps_Settings" path="packages/apps/Settings" revision="44fb24965249970d42586b1241536046c7a594e1" upstream="refs/heads/cm-11.0"/>
   <project name="androidarmv6/android_packages_apps_Trebuchet" path="packages/apps/Trebuchet" revision="087d30f2724be4dac28f81f45aaa6e4796f4e257" upstream="refs/heads/cm-11.0"/>
   <project name="androidarmv6/android_packages_inputmethods_LatinIME" path="packages/inputmethods/LatinIME" revision="526efe09623fcaa5b682623f5d39019cdf6728e1" upstream="refs/heads/cm-11.0"/>
   <project name="androidarmv6/android_packages_wallpapers_Basic" path="packages/wallpapers/Basic" revision="8d103faa576ef741c9d9c8d7b47d565189d38db8" upstream="refs/heads/cm-11.0"/>
