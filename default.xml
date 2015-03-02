@@ -166,9 +166,9 @@
   <project path="external/google-fonts/carrois-gothic-sc" name="platform/external/google-fonts/carrois-gothic-sc" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/google-fonts/cutive-mono" name="platform/external/google-fonts/cutive-mono" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/google-tv-pairing-protocol" name="platform/external/google-tv-pairing-protocol" remote="aosp" />
+  <project path="external/gmock" name="CyanogenMod/android_external_gmock"/>
   <project path="external/gson" name="CyanogenMod/android_external_gson" />
   <project path="external/gtest" name="platform/external/gtest" groups="pdk" remote="aosp" />
-  <project path="external/gmock" name="CyanogenMod/android_external_gmock"/>
   <project path="external/guava" name="platform/external/guava" groups="pdk-cw-fs,tradefed" remote="aosp" />
   <project path="external/hamcrest" name="platform/external/hamcrest" groups="pdk-cw-fs,tradefed" remote="aosp" />
   <project path="external/harfbuzz_ng" name="platform/external/harfbuzz_ng" remote="aosp" />
@@ -200,8 +200,8 @@
   <project path="external/ksoap2" name="platform/external/ksoap2" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/kernel-headers" name="platform/external/kernel-headers" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/kissfft" name="CyanogenMod/android_external_kissfft" />
-  <project path="external/koush/ion" name="CyanogenMod/ion" />
   <project path="external/koush/AndroidAsync" name="CyanogenMod/AndroidAsync" />
+  <project path="external/koush/ion" name="CyanogenMod/ion" />
   <project path="external/libcap-ng" name="platform/external/libcap-ng" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/libcxx" name="platform/external/libcxx" groups="pdk" remote="aosp" />
   <project path="external/libcxxabi" name="platform/external/libcxxabi" groups="pdk" remote="aosp" />
@@ -334,8 +334,8 @@
   <project path="external/xmlwriter" name="platform/external/xmlwriter" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/xmp_toolkit" name="platform/external/xmp_toolkit" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/yaffs2" name="platform/external/yaffs2" groups="pdk" remote="aosp" />
-  <project path="external/zlib" name="CyanogenMod/android_external_zlib" groups="pdk" />
   <project path="external/zip" name="CyanogenMod/android_external_zip" />
+  <project path="external/zlib" name="CyanogenMod/android_external_zlib" groups="pdk" />
   <project path="external/zopfli" name="platform/external/zopfli" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/zxing" name="platform/external/zxing" groups="pdk-cw-fs" remote="aosp" />
   <project path="frameworks/av" name="androidarmv6/android_frameworks_av" groups="pdk" />
@@ -412,7 +412,6 @@
   <project path="packages/apps/CellBroadcastReceiver" name="CyanogenMod/android_packages_apps_CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="CyanogenMod/android_packages_apps_CertInstaller" />
   <project path="packages/apps/CMAccount" name="CyanogenMod/android_packages_apps_CMAccount" />
-  <project path="packages/apps/SetupWizard" name="CyanogenMod/android_packages_apps_SetupWizard" />
   <project path="packages/apps/CMBugReport" name="CyanogenMod/android_packages_apps_CMBugreport" />
   <project path="packages/apps/CMFileManager" name="CyanogenMod/android_packages_apps_CMFileManager" />
   <!-- <project path="packages/apps/CMHome" name="CyanogenMod/android_packages_apps_CMHome" /> -->
@@ -438,15 +437,16 @@
   <project path="packages/apps/PhoneCommon" name="CyanogenMod/android_packages_apps_PhoneCommon" />
   <project path="packages/apps/Provision" name="CyanogenMod/android_packages_apps_Provision" />
   <project path="packages/apps/Settings" name="androidarmv6/android_packages_apps_Settings" />
+  <project path="packages/apps/SetupWizard" name="CyanogenMod/android_packages_apps_SetupWizard" />
   <project path="packages/apps/SmartCardService" name="CyanogenMod/android_packages_apps_SmartCardService" />
   <project path="packages/apps/SoundRecorder" name="CyanogenMod/android_packages_apps_SoundRecorder" />
   <project path="packages/apps/SpeechRecorder" name="CyanogenMod/android_packages_apps_SpeechRecorder" />
   <project path="packages/apps/Stk" name="CyanogenMod/android_packages_apps_Stk" />
   <project path="packages/apps/Tag" name="CyanogenMod/android_packages_apps_Tag" />
-  <project path="packages/apps/TvSettings" name="CyanogenMod/android_packages_apps_TvSettings" />
-  <project path="packages/apps/ThemeChooser" name="CyanogenMod/android_packages_apps_ThemeChooser" />
   <project path="packages/apps/Terminal" name="CyanogenMod/android_packages_apps_Terminal" />
+  <project path="packages/apps/ThemeChooser" name="CyanogenMod/android_packages_apps_ThemeChooser" />
   <project path="packages/apps/Trebuchet" name="androidarmv6/android_packages_apps_Trebuchet" />
+  <project path="packages/apps/TvSettings" name="CyanogenMod/android_packages_apps_TvSettings" />
   <project path="packages/apps/UnifiedEmail" name="CyanogenMod/android_packages_apps_UnifiedEmail" />
   <project path="packages/experimental" name="CyanogenMod/android_packages_experimental" />
   <project path="packages/inputmethods/LatinIME" name="androidarmv6/android_packages_inputmethods_LatinIME" />
